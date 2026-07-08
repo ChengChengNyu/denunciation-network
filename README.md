@@ -10,7 +10,7 @@ the Yongzheng Emperor (1723–1735), across the state's two reporting circuits:
   from the secret palace-memorial corpus (硃批奏摺): the provincial elite denouncing and
   recommending one another directly to the emperor.
 
-**Live page:** `https://chengchengnyu.github.io/<repo>/denunciation-network/` 
+**Live page:** `https://chengchengnyu.github.io/denunciation-network/` 
 
 ## What's in the explorer
 
